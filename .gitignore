@@ -1,0 +1,10 @@
+# Files created by
+#   python setup.py sdist
+MANIFEST
+dist/
+termcolor.pyc
+# Files created by
+#   pip3 install --user -e .
+__pycache__/
+termcolor.egg-info/
+
